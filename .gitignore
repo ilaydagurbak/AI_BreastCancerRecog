@@ -1,0 +1,10 @@
+/.idea/
+__pycache__/
+/dataset/
+*.iml
+dataset copy/
+dataset2.zip
+*.pth
+
+# Project exclude paths
+/venv/
